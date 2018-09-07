@@ -1,3 +1,3 @@
 class Demo
-puts "Hello_Test...1"
+puts "Hello_Test"
 end
